@@ -1,19 +1,15 @@
 {
-  "name": "threejs-lessons",
-  "description": "threejs lessons by keman5",
+  "name": "threejs-learn",
+  "description": "threejs learn",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://gitee.com/keman5/threejs-courses.git"
-  },
   "keywords": [
     "threejs"
   ],
-  "author": "keman.wu",
+  "author": "mn",
   "license": "MIT",
   "dependencies": {
     "@types/three": "^0.150.2",
